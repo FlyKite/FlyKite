@@ -1,7 +1,9 @@
-<p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FlyKite" height="230"/>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FlyKite&show_icons=true" height="230"/>
-</p>
+<a href="" style="pointer-events: none;">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FlyKite" height="230"/>
+</a>
+<a href="" style="pointer-events: none;">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FlyKite&show_icons=true" height="230"/>
+</a>
 <!--
 ### Hi there 👋
 
