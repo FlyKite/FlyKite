@@ -1,8 +1,8 @@
 <a href="" style="pointer-events: none;">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FlyKite&theme=nord&hide=c" height="225"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FlyKite&theme=nord&hide=c" height="224"/>
 </a>
 <a href="" style="pointer-events: none;">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FlyKite&show_icons=true&count_private=true&theme=nord" height="225"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=FlyKite&show_icons=true&count_private=true&theme=nord" height="224"/>
 </a>
 <!--
 ### Hi there 👋
